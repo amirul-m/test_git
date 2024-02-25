@@ -1,5 +1,5 @@
 {
-    'name' : 'Training Day 1',
+    'name' : 'Training Day 1 (Test)',
     'summary': 'Day 1 Batch 39',
     'description': "Training Day 1 Batch 39",
     'version' : '1.0',
